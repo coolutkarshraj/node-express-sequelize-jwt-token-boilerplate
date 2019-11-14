@@ -108,7 +108,52 @@ This boilerplate comes with a collection of npm scripts to make your life easier
 - [FactoryGirl](https://www.npmjs.com/package/factory-girl)
 - [Istanbul](https://www.npmjs.com/package/istanbul) + [NYC](https://www.npmjs.com/package/nyc)
 - [ESLint](https://www.npmjs.com/package/eslint)
+- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
 
 ## Contributing
 
 This boilerplate is open to suggestions and contributions, documentation contributions are also important! :)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Afg Vs WI
+
+1st Team
+1 - R.Gurbaaz
+2 - E.Levis
+3 -S.Hetmyer
+4 - A Afghan
+5 -H Zazai(B King,Zadran)
+
+All Rounder
+6 M Naib 
+7G Naib
+8 F Allen
+9 Pollard
+
+
+10 Rashid Khan
+11 S Cotrll
+12
+13 Mujeeb Ur Rehman
+
+Option
+
+K Williams
+A Joseph
+Walsh
+Piere 
+
+C E Levis/L Simmons//H Zazai
+VC Holder /Nabi

@@ -17,8 +17,14 @@ class Operation extends EventEmitter {
   }
 }
 
+
 const createOutputs = (outputsArray) => {
   return outputsArray.reduce((obj, output) => {
+  //   const success = {
+  //     'sucess':true,
+  //     'message':'Data get successfull',
+  //     'data':obj[output]
+  // }
     obj[output] = output;
     return obj;
   }, Object.create(null));
